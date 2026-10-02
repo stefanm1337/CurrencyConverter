@@ -1,0 +1,15 @@
+# Private API key
+apikey.txt
+
+# App output, including local fonts and data
+bin/
+
+# Visual Studio temporary files
+.vs/
+obj/
+Debug/
+Release/
+x64/
+ipch/
+*.user
+*.suo
